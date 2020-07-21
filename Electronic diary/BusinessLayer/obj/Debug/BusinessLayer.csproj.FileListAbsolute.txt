@@ -1,0 +1,36 @@
+D:\ElectronicDiary\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ElectronicDiary\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ElectronicDiary\BusinessLayer\bin\Debug\DataLayer.dll
+D:\ElectronicDiary\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\sisov\Desktop\ElectronicDiary\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\BusinessLayer\obj\Debug\BusinessLayer.pdb

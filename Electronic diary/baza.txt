@@ -1,0 +1,36 @@
+Courses
+CREATE TABLE [dbo].[Courses] (
+    [Id]          INT            IDENTITY (1, 1) NOT NULL,
+    [Name]        NVARCHAR (80)  NOT NULL,
+    [Description] NVARCHAR (200) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+Students
+CREATE TABLE [dbo].[Students] (
+    [Id]                  NVARCHAR (13) NOT NULL,
+    [FirstName]           NVARCHAR (50) NOT NULL,
+    [LastName]            NVARCHAR (90) NOT NULL,
+    [DateOfBirth]         DATE          NOT NULL,
+    [Class]               NVARCHAR (50) NOT NULL,
+    [JustifiedAbscence]   INT           NOT NULL,
+    [UnjustifiedAbscence] INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+Ratings
+CREATE TABLE [dbo].[Ratings] (
+    [Id]            INT            IDENTITY (1, 1) NOT NULL,
+    [DateOfRating]  DATE           NOT NULL,
+    [Mark]          INT            NOT NULL,
+    [NameOfTeacher] NVARCHAR (150) NOT NULL,
+    [StudentId]     NVARCHAR (13)  NOT NULL,
+    [CourseId]      INT            NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [StudentId] FOREIGN KEY ([StudentId]) REFERENCES [dbo].[Students] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [CourseId] FOREIGN KEY ([CourseId]) REFERENCES [dbo].[Courses] ([Id]) ON DELETE CASCADE
+);
+
+
+
+
+
+

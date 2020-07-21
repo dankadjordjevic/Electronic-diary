@@ -1,0 +1,114 @@
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.dll
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.dll
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+D:\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.pdb
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+D:\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.dll
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.dll
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.pdb
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+C:\Users\sisov\Desktop\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.dll
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.dll
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\bin\Debug\DataLayer.pdb
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+F:\FTN Cacak\VII semestar\Softversko inzernjerstvo\Spectre-projekat\ElectronicDiary\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.dll
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.dll
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.pdb
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+C:\Users\Prco\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.dll
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.dll
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.pdb
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+C:\Users\Prco\Desktop\Daki faks\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe.config
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.exe
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\ElectronicDiary.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.dll
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.dll
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\BusinessLayer.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\bin\Debug\DataLayer.pdb
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csprojAssemblyReference.cache
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.CoursesForm.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.MainForm.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.Properties.Resources.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.RatingsForm.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsForm.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.StudentsGDP.resources
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.GenerateResource.cache
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CoreCompileInputs.cache
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.csproj.CopyComplete
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.exe
+C:\Users\Danka Djordjevic\Desktop\Elektronski dnevnik SSA\ElectronicDiary\obj\Debug\ElectronicDiary.pdb
